@@ -4,14 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "Playground",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
 	],
 	"Plugins": [
 		{
