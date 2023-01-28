@@ -3,8 +3,6 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -15,6 +13,10 @@
 		},
 		{
 			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MixamoAnimToUE5",
 			"Enabled": true
 		}
 	]
