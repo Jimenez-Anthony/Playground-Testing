@@ -14,10 +14,6 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
-		},
-		{
-			"Name": "MixamoAnimToUE5",
-			"Enabled": true
 		}
 	]
 }
