@@ -34,6 +34,10 @@
 		{
 			"Name": "AutomationDriverTests",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
